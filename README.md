@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thecien
+- 👀 I’m interested in Python, Java and C++
+- 🌱 I’m currently learning Solidity
+- 💞️ I’m looking to collaborate on Eth Projects
+- 📫 Reach me at glitch.thecien@gmail.com
